@@ -1,0 +1,16 @@
+{
+  "name": "swipe-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chrissnape",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "react-native-linear-gradient": "^2.5.6"
+  }
+}
